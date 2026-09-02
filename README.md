@@ -1,4 +1,6 @@
-# YO EL README
+# ¡¡¡TRABAJEN USANDO BRANCHES!!!
+
+## YO EL README
 
 ### pasos a seguir:
 - ejecutar "npm run dev"
