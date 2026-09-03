@@ -24,7 +24,7 @@ const menuItems = [
   { label: 'Mi Perfil', icon: User, action: 'profile' },
   { label: 'Descubrir', icon: Compass, action: 'discover' },
   { label: 'Notificaciones', icon: Bell, action: 'notifications', badge: 7 },
-  { label: 'Ajustes de IA', icon: Wand2, action: 'settings' },
+ //{ label: 'Ajustes de IA', icon: Wand2, action: 'settings' }, vale pico, no volver a implementar.
   { label: 'Cerrar Sesión', icon: LogOut, action: 'logout' },
 ] as const
 
